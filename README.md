@@ -10,4 +10,4 @@ The strategies mentioned above were also implemented with the following policies
 * Optimistic Initial Values
 
 
-The results of our findings as well as the design process can be found in the pdf file attached.
+Our statistical analysis, as well as the design process, can be found in the pdf file attached.
